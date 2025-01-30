@@ -3,3 +3,4 @@ console.Writeline('Role no : 081');
 console.Writeline(A+B);
 console.Writeline(A-b);
 console.Writeline(A*B);
+console.Writeline(A/B);
