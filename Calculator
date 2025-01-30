@@ -1,2 +1,3 @@
 console.Writeline('Name : Hamza');
 console.Writeline('Role no : 081');
+console.Writeline(A+B);
